@@ -1,0 +1,23 @@
+/*Made by David Luz - v1 - 26.03.2015 */
+.ria-stage{display: none;}
+
+
+
+/*Mobile Phones */ 
+@media only screen and (min-width : 0px) and (max-width: 480px) {
+#ria-phone-container{display: inline;}
+}
+
+/*Tablets*/
+@media only screen and (min-width : 481px) and (max-width: 700px) {
+#ria-tablet-container{display: inline;}
+
+}
+
+/*Desktops*/
+@media only screen and (min-width : 701px) {
+
+#ria-desktop-container{display: inline;}
+
+}
+
